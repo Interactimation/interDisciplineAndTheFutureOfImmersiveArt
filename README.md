@@ -82,7 +82,7 @@ http://www.encroach.net/info/show_docs/pages_2005/musicircus.html
 ### THESIS
 #### Here We Go Again
 
-If I consider the discipline of immersive environments as a whole, on _this side_ of the divide, then the discipline I want to cross with might fall well outside of "design" at all -within, say, the sciences: 
+If I consider the discipline of immersive environments as a whole, on _this side_ of the divide, then the discipline I want to cross with might fall well outside of "design" at all -within, say, the sciences:  
 Physics: Envision quantum states  
 Medicine: Explore microscopy  
 Cognitive science... 
