@@ -39,12 +39,13 @@ And in this context I understood that 3/4 waltz time and 4/4 marching time _meet
 -In this context they are one, not distinct
 
 (COUNTING)
-**1** 2 3 **4 5** 6 **7** 8 **9 10** 11 12
+**1** 2 3 **4 5** 6 **7** 8 **9 10** 11 12  
+
 And so I ask myself:
 
 > If we can pancake distinctions by developing contexts...  
 > If by adding a dimension to our context we observe the merging of categories...  
->What do we mean by "cross-discipline" work?
+> What do we mean by "cross-discipline" work?
 
 ### SYNTHESIS
 #### Deeper Divides 
