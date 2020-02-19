@@ -63,7 +63,7 @@ http://bcchang.com/synthecology/
 #### The Other Is: Know it all and do it all yourownself
 
 This is ideal for the development of small-world experiences and I worked this way in developing _ChiSky_ environment and it may yet be the largest single-creator experience ever developed for the CAVE environment  
-I did this by literally moving into my studio and working night and day
+I did this by literally moving into my studio and working night and day  
 https://youtu.be/GcgcR5SFklk?t=12
 
 Serving as your own "chief cook and bottle washer" -doing all the design jobs yourself- makes the team approach seem _less cross-discipliny_ -involving what appears rather to be a _sphere of discipline_ than a set of distinct disciplines that need crossing
